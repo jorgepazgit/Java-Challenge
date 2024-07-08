@@ -1,2 +1,2 @@
 # Java-Challenge
-Es un desafía de Alura para sus alumnos
+Es un desafío de Alura para sus alumnos
